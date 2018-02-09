@@ -1,0 +1,26 @@
+[07-Feb-2018 09:30:07 America/Denver] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home3/webspree/public_html/prescription.com/prescription.php on line 91
+[07-Feb-2018 09:30:07 America/Denver] PHP Notice:  Trying to get property of non-object in /home3/webspree/public_html/prescription.com/prescription.php on line 92
+[07-Feb-2018 09:30:07 America/Denver] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home3/webspree/public_html/prescription.com/prescription.php on line 98
+[08-Feb-2018 11:05:19 America/Denver] PHP Notice:  Undefined variable: conn in /home3/webspree/public_html/prescription.com/prescription.php on line 19
+[08-Feb-2018 11:05:19 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home3/webspree/public_html/prescription.com/prescription.php on line 19
+[08-Feb-2018 12:41:37 America/Denver] PHP Notice:  Undefined index: phone in /home3/webspree/public_html/prescription.com/oldp.php on line 47
+[08-Feb-2018 13:08:08 America/Denver] PHP Notice:  Undefined variable: conn in /home3/webspree/public_html/prescription.com/acp_edit.php on line 5
+[08-Feb-2018 13:08:08 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/webspree/public_html/prescription.com/acp_edit.php on line 5
+[08-Feb-2018 13:08:08 America/Denver] PHP Notice:  Undefined variable: conn in /home3/webspree/public_html/prescription.com/acp_edit.php on line 8
+[08-Feb-2018 13:08:08 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/webspree/public_html/prescription.com/acp_edit.php on line 8
+[08-Feb-2018 13:08:08 America/Denver] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/webspree/public_html/prescription.com/acp_edit.php on line 9
+[08-Feb-2018 13:08:08 America/Denver] PHP Notice:  Undefined variable: url in /home3/webspree/public_html/prescription.com/acp_edit.php on line 62
+[08-Feb-2018 14:12:30 America/Denver] PHP Notice:  Undefined variable: conn in /home3/webspree/public_html/prescription.com/user.php on line 73
+[08-Feb-2018 14:12:30 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home3/webspree/public_html/prescription.com/user.php on line 73
+[08-Feb-2018 14:12:41 America/Denver] PHP Notice:  Undefined variable: conn in /home3/webspree/public_html/prescription.com/user.php on line 73
+[08-Feb-2018 14:12:41 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home3/webspree/public_html/prescription.com/user.php on line 73
+[08-Feb-2018 14:12:41 America/Denver] PHP Notice:  Undefined variable: conn in /home3/webspree/public_html/prescription.com/user.php on line 73
+[08-Feb-2018 14:12:41 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home3/webspree/public_html/prescription.com/user.php on line 73
+[08-Feb-2018 14:13:00 America/Denver] PHP Notice:  Undefined variable: count in /home3/webspree/public_html/prescription.com/dashbord.php on line 19
+[08-Feb-2018 14:13:00 America/Denver] PHP Notice:  Undefined variable: count1 in /home3/webspree/public_html/prescription.com/dashbord.php on line 31
+[08-Feb-2018 14:13:00 America/Denver] PHP Notice:  Undefined variable: count in /home3/webspree/public_html/prescription.com/dashbord.php on line 43
+[08-Feb-2018 14:13:52 America/Denver] PHP Notice:  Undefined variable: conn in /home3/webspree/public_html/prescription.com/user.php on line 73
+[08-Feb-2018 14:13:52 America/Denver] PHP Fatal error:  Call to a member function query() on null in /home3/webspree/public_html/prescription.com/user.php on line 73
+[09-Feb-2018 02:57:04 America/Denver] PHP Notice:  Undefined variable: vals in /home3/webspree/public_html/prescription.com/inseartp.php on line 22
+[09-Feb-2018 02:57:19 America/Denver] PHP Notice:  Undefined variable: vals in /home3/webspree/public_html/prescription.com/inseartp.php on line 22
+[09-Feb-2018 10:06:02 America/Denver] PHP Notice:  Undefined index: login_user in /home3/webspree/public_html/prescription.com/session.php on line 14
